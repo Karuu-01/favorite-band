@@ -31,3 +31,9 @@ body{
   font-family: fantasy;
   font-style: initial;
 }
+#members>header{
+  font-size: 40px;
+  font-style: italic;
+  font-weight: 600;
+  border-image: inherit;
+}
