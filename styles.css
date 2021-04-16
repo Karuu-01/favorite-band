@@ -11,17 +11,14 @@ body{
   font-style: italic;
 }
 #classic>ul li a{
-  color: white;
+  color: black;
   font-size: 30px;
-  
-  
-
+  font-weight: initial;
 }
 #home{
   text-align: center;
   color: black;
   font-size: 40px;
-  
 }
 #home>header{
   font-size: 60px;
@@ -35,5 +32,23 @@ body{
   font-size: 40px;
   font-style: italic;
   font-weight: 600;
-  border-image: inherit;
+}
+div>p{
+  color: black;
+  font-size: 30px;
+  font-weight: 600;
+  font-style: italic;
+  text-align: center;
+  pointer-events: visiblePainted;
+}
+#albums>ol p{
+  font-size: 30px;
+  font-weight: 500;
+}
+#albums>ol li{
+  font-size: 30px;
+}
+img{
+  align-items: center;
+  justify-content: center;
 }
