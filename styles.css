@@ -4,7 +4,30 @@
 #classic> ul li{
   display: inline;
   list-style: none;
+  padding: 3px;
 }
 body{
-  background-image: url(Background.jpeg);
+  background-color:lightskyblue;
+  font-style: italic;
+}
+#classic>ul li a{
+  color: white;
+  font-size: 30px;
+  
+  
+
+}
+#home{
+  text-align: center;
+  color: black;
+  font-size: 40px;
+  
+}
+#home>header{
+  font-size: 60px;
+  text-align: start;
+  font-weight: 400;
+  border-bottom: inset;
+  font-family: fantasy;
+  font-style: initial;
 }
