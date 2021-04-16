@@ -1,0 +1,10 @@
+#classic{
+  float: right;
+}
+#classic> ul li{
+  display: inline;
+  list-style: none;
+}
+body{
+  background-image: url(Background.jpeg);
+}
