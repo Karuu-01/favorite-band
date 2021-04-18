@@ -1,9 +1,9 @@
-# favorite-band
+# Favorite-Band
 My Favorite-Band https://github.com/Karuu-01/favorite-band
 ## Author
 Brian Karu
 ### Description
-the website entails more about my favorit band
+the website entails more about my favorite band
 ### Prerequisities
 You need to have git installed
 You can install it with the following command in your terminal
